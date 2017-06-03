@@ -10,4 +10,9 @@ public class Gegegee {
 	{
 		return 4;
 	}
+	public void a()
+	{
+	int a = 1;
+	int b = 1;
+	}
 }

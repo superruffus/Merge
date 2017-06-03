@@ -6,4 +6,9 @@ public class Gegegee {
 
 	}
 
+	public void a()
+	{
+	int a = 1;
+	int b = 1;
+	}
 }

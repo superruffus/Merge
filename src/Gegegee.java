@@ -6,4 +6,8 @@ public class Gegegee {
 
 	}
 
+	public int b()
+	{
+		return 4;
+	}
 }
